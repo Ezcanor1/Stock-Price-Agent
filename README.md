@@ -23,7 +23,7 @@ Build a LangChain-based agent equipped with a stock price fetcher tool using yFi
 ### ✅ Explaination video of the code
  https://drive.google.com/file/d/1ZuArHS3YknUdiXKMfQ8N5KdvoFAfG1-R/view?usp=drivesdk
   
-  **The video also includes how u can run the code**
+  **The video also includes how you can run the code**
 
 
 ## ✅ How to Run:
